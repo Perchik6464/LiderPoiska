@@ -1,0 +1,4 @@
+Свг картинки могжно перекрашивать при помощи фильтра( зеленый)
+img:hover{
+    filter:  invert(51%) sepia(74%) saturate(4705%) hue-rotate(113deg) brightness(94%) contrast(101%);
+}

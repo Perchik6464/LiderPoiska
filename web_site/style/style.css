@@ -1,0 +1,43 @@
+/* Шрифт по умолчанию */
+*{
+    font-family: 'Montserrat-Medium';
+}
+/* Основные цвета */
+*{
+  color:#000; 
+}
+button{
+    color:#FFF;
+    background-color: #296DC1;
+}
+button:hover{
+    background-color: #00A82D;
+}
+/* Оболочка */
+.wrap{
+    padding: 0px 15px;
+    max-width: 1170px;
+    margin: auto;
+    
+}
+/* Основная рабочая область */
+
+/* Шапка */
+.header{
+    display: flex;
+    justify-content:space-between ;
+    padding: 40px 0px 60px 0px;
+}
+.Buy_basket, .Buy_basket a{
+    display: flex;
+    align-items: center;
+}
+.Buy_basket span{
+    margin:0px 10px;
+}
+/* Каталог товаров */
+
+
+
+
+
